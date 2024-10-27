@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "main",
+    "slug": "snack-d120d2af-0e75-4cb4-ba82-c9a9bdd61b16",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sanketshinde.mobilecomputingapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8599e98e-6eff-43a8-a188-79ffad0e91ae"
+      }
+    }
+  }
+}
